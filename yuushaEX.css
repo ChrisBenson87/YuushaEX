@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-color: skyblue;
+    background-position: center;
+    background-size:cover;
+}
+
+.banner {
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+
+.navbar {
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+}
+
+.latestVideosText {
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+
+.latestVideos {
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+
