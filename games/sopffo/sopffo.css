@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: skyblue;
+    background-position: center;
+    background-size:cover;
+}
+
+.navbar {
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+}
+
+.sideNavBar {
+    display: flex;
+    position: relative;
+    justify-content: left;
+}
