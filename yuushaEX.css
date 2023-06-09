@@ -1,20 +1,23 @@
 body {
     text-align: center;
-    background-color: skyblue;
-    background-position: center;
-    background-size:cover;
+    background-image: url("");
 }
 
-.banner {
+.banner{
+    display: flex;
+    position: relative;
+}
+
+.navBar {
     display: flex;
     position: relative;
     justify-content: center;
 }
 
-.navbar {
+.navButton {
     display: flex;
-    position: relative;
-    justify-content: space-between;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0 50px 0 0;
 }
 
 .latestVideosText {
