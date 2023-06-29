@@ -16,7 +16,8 @@ body {
 
 .navButton {
     display: flex;
-    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    justify-content: left;
     margin: 0 50px 0 0;
 }
 
